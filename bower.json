@@ -6,7 +6,7 @@
     "Alberto Fernandez <fernandez.gandarias@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/Alemanote/ironfunding",
   "ignore": [
     "**/.*",
     "node_modules",
